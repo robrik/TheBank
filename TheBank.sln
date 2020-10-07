@@ -21,6 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBank.TestCore", "TheBank
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBank.Utilities", "TheBank.Utilities\TheBank.Utilities.csproj", "{A9BADE39-9153-4DD6-91E4-1DE5FB59609A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D0A70ADC-0E13-489A-93C0-97B523F4D459}"
+	ProjectSection(SolutionItems) = preProject
+		#README.txt = #README.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
