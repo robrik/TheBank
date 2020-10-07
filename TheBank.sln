@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBank.Domain", "TheBank.D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{25C653B0-BA1A-43BD-88C9-96C26620B733}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBank.DataTest", "TheBank.ApiTest\TheBank.DataTest.csproj", "{814F7539-571F-4F96-AFE8-4DE9EBC15587}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBank.DataTest", "TheBank.DataTest\TheBank.DataTest.csproj", "{814F7539-571F-4F96-AFE8-4DE9EBC15587}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBank.LogicTest", "TheBank.LogicTest\TheBank.LogicTest.csproj", "{25412FD8-197C-4CA2-852E-D43A73F19161}"
 EndProject
